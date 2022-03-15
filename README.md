@@ -10,7 +10,7 @@ This challenge was to utilize a business API:
 4. The point of the challenge is to get a success message from POST response which has a response of "success" and also the time of how fast I was able to achieve that success through the whole process.
 5. Success time Was told to be under 20ms. 
 
-I used task simultaneously to have a success at 9.8ms.
+I used task asyncronously to have a success of 9.8ms.
 
 I will not provide the busniess/company name of which I performed this challange
 
